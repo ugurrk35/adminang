@@ -18,6 +18,11 @@
     "@angular/platform-browser": "^14.0.0",
     "@angular/platform-browser-dynamic": "^14.0.0",
     "@angular/router": "^14.0.0",
+    "jquery": "^3.5.1",
+    "ngx-quill": "^18.0.0",
+    "ngx-toastr": "^15.0.0",
+    "primeflex": "^3.2.1",
+    "primeng": "^14.0.0-rc.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
